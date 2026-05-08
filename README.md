@@ -1,2 +1,2 @@
 # vue
-https://farjanakhan2212.github.io/vue/
+http://farjana.intelsofts.com/Projects/Vue/
